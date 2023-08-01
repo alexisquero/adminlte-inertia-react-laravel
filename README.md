@@ -67,7 +67,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # adminlte-inertia-react-laravel
 # adminlte-inertia-react-laravel
 
-composer install
-npm install
-npm run build
-php artisan serve
+## instalar y probar
+<p>composer install</p>
+<p>npm install</p>
+<p>npm run build</p>
+<p>php artisan serve</p>
